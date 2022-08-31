@@ -10,8 +10,8 @@ class Book:
         print(self.title + ", written by " + self.author)
 
 
-obj1 = Book('John Steinbeck', 'Of Mice and Men')
-obj2 = Book('Harper Lee', 'To Kill a Mockingbird')
+obj1 = Book('J. K. Rowling', 'Harry Potter and the Goblet of Fire')
+obj2 = Book('Walter Scott', 'Ivanhoe : A Romance')
 
 obj1.display()
 print()
